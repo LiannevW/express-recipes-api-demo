@@ -15,6 +15,7 @@ module.exports = io => {
         .sort({ createdAt: -1 })
         // Send the data in JSON format
         .then((games) => res.json(games))
+
         // Throw a 500 error if something goes wrong
         .catch((error) => next(error))
     })
