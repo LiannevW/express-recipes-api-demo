@@ -4,4 +4,4 @@ RESTful Express API for Tic-Tac-Toe game on top of MongoDB (work in progress). T
 
 ## Preview
 
-<img src="" width="300" height="200" />
+<img src="https://github.com/LiannevW/express-recipes-api-demo/blob/master/fixtures/screenShotPreview.png" width="300" height="200" />
